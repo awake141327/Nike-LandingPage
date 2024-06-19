@@ -19,7 +19,7 @@ Project Description
 1. Clone the repo
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/awake141327/Nike-LandingPage.git
 ```
 
 2. Install dependencies
