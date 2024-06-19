@@ -1,6 +1,6 @@
-# Project Title
+# Nike Landing Page
 
-Project Description
+Nike Landing page with responsive and stunning UI.
 
 ## Features
 
@@ -10,9 +10,10 @@ Project Description
 ## Tech Stack
 
 - React
-- TypeScript
+- Javascript
 - Tailwind CSS
-- Vite
+- JSX
+- Vite 
 
 ## How to use
 
